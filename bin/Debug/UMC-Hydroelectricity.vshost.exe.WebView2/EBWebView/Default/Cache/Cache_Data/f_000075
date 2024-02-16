@@ -1,0 +1,506 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Thông tin vận hành hồ chứa
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="description" /><meta name="author" />
+    <!-- Web Fonts -->
+    <!-- CSS Global Compulsory -->
+    
+    <link rel="stylesheet" href="/BlueThemes/css/bootstrap.min.css" /><link rel="stylesheet" href="/BlueThemes/css/style.css" />
+    <!-- CSS Header and Footer -->
+    
+    <!-- CSS Implementing Plugins -->
+    <link rel="stylesheet" href="/BlueThemes/css/font-awesome.min.css" />
+    <!-- CSS Theme -->
+    <link rel="stylesheet" href="/BlueThemes/css/dark.css" />
+    <!-- CSS Customization -->
+    <link rel="stylesheet" href="/BlueThemes/css/custom.css" />
+    <script type="text/javascript" src="/BlueThemes/js/jquery.min.js"></script>
+    <link rel="stylesheet" href="/BlueThemes/css/customembed.css" />
+	<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://analytics.evn.com.vn/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '5']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+</head>
+<body>
+    <form method="post" action="/PageHoChuaThuyDienEmbedEVN.aspx" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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dGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDg6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjI4MS43MjwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yOTU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjY1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ0NjwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xMTUzPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4xMTUzPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPkLhuqNuIENow6F0IDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDc6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ0OS41NDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz40NzU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NDMxPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjc5PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+SHXhu5lpIFF14bqjbmcgPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4xOC8wNyAwODowMCA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MzY4Ljk0PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjM3MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4zNjg8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NjQuMzwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xNzEuNjwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTcxLjY8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+U8ahbiBMYSA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xOTUuNTU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjE1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjE3NTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xMzQwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjI3Mjk8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjI3Mjk8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+SMOyYSBCw6xuaCA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA4OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz45NS44PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjExNzwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz44MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4zMzU4PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjI0NDk8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjI0NDk8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+VGjDoWMgQsOgIDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDg6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ4Ljc3PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjU4PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ2PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjIxMDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yNjIuMjM8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjI2Mi4yMzwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8L3RyPiA8dHIgY2xhc3M9J3RyYWx0ZXInPjx0ZCBjb2xzcGFuPScxMSc+PHN0cm9uZz5C4bqvYyBUcnVuZyBC4buZPC9zdHJvbmc+PC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+VHJ1bmcgU8ahbiA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xNDcuNzU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MTYwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjE1MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yMTA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MTEyPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4xMTI8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+QuG6o24gVuG6vSA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xNTcuMDE8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjAwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjE1NTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz41NDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPlF14bqjbmcgVHLhu4sgPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4xOC8wNyAwNzowMCA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NDUzLjQ1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ4MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz40NTA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MzwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0ciBjbGFzcz0ndHJhbHRlcic+PHRkIGNvbHNwYW49JzExJz48c3Ryb25nPk5hbSBUcnVuZyBC4buZPC9zdHJvbmc+PC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+QSBWxrDGoW5nIDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDc6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjM1Ny4yMjwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4zODA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MzQwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjEwLjQ3PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjI4PC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4yODwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8L3RyPiA8dHI+IDx0ZCBjbGFzcz0nJz5Tw7RuZyBCdW5nIDIgPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4xOC8wNyAwODowMCA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NTgyLjQxPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjYwNTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz41NjU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NC41NTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPlPDtG5nIEJ1bmcgNCA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA4OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yMTcuMzI8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjIyLjU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjA1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjM5Ljc4PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjgwPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz44MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8L3RyPiA8dHI+IDx0ZCBjbGFzcz0nJz5Tw7RuZyBUcmFuaCAyIDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDg6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjE1NC45ODwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xNzU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MTQwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQyLjMzPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjUuOTQ8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjUuOTQ8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+U8O0bmcgQmEgSOG6oSA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xMDMuMzI8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MTA1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjEwMTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yMTA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MzYzPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4zNjM8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+U8O0bmcgSGluaCA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yMDIuMTE8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjA5PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjE5NjwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4tMjIuMTE8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NDUuNjc8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjQ1LjY3PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0ciBjbGFzcz0ndHJhbHRlcic+PHRkIGNvbHNwYW49JzExJz48c3Ryb25nPlTDonkgTmd1ecOqbjwvc3Ryb25nPjwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPlRoxrDhu6NuZyBLb24gVHVtIDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDc6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjExNDkuNzU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xNy45NTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xMy42NTwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTMuNjU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+UGxlaWtyw7RuZyA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz41NDYuNTE8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NTcwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjUzNzwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz45NzQ8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8L3RyPiA8dHI+IDx0ZCBjbGFzcz0nJz5JYWx5IDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDc6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ5OC40PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjUxNTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz40OTA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+Nzg2PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ1PC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz40NTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8L3RyPiA8dHI+IDx0ZCBjbGFzcz0nJz5Tw6ogU2FuIDMgPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4xOC8wNyAwNzowMCA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MzAzLjk1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjMwNC41PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjMwMy4yPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjU4PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+U8OqIFNhbiAzQSA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yMzguODY8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjM5PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjIzOC41PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjU1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ0NDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+NDQ0PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPlNyw6pw4buRayAzIDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDg6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjI2OS4zPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjI3MjwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yNjg8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjkwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQwMDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+NDAwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPkJ1w7RuIEt14buRcCA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA4OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz40MDkuMzU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NDEyPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQwOTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yNTk8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjQ2PC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4yNDY8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+QnXDtG4gVHVhIFNyYWggPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4xOC8wNyAwODowMCA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NDcxLjY4PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ4Ny41PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ2NTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yNTI8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgwPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4xODA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+xJDhu5NuZyBOYWkgMyA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz41NzQuMjI8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NTkwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjU3MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xMDQuOTU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+OTQuNzI8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjk0LjcyPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPsSQ4buTbmcgTmFpIDQgPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4xOC8wNyAwNzowMCA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NDc1LjcyPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjQ3NjwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz40NzQ8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+OTQuMTc8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+Mi41PC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4yLjU8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+xJDGoW4gRMawxqFuZyA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xMDMyLjE8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MTA0MjwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xMDE4PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjMuMTY8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MzEuMjU8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjMxLjI1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPsSQ4bqhaSBOaW5oIDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDc6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjg2OC42PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjg4MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz44NjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MjY8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MC43PC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wLjc8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj4gPHRyPiA8dGQgY2xhc3M9Jyc+SMOgbSBUaHXhuq1uIDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDc6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjU4My4yNTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz42MDU8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+NTc1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjExOS42OTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz45Ny43PC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz45Ny43PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPsSQYSBNaSA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA3OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4zMjQuNzY8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MzI1PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjMyMzwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4xMTIuMzQ8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+OTEuMjM8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjkxLjIzPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0ciBjbGFzcz0ndHJhbHRlcic+PHRkIGNvbHNwYW49JzExJz48c3Ryb25nPsSQw7RuZyBOYW0gQuG7mTwvc3Ryb25nPjwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPlRy4buLIEFuIDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MTgvMDcgMDc6MDAgPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjU0Ljk3PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjYyPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjUwPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjY2MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjA8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDwvdHI+IDx0cj4gPHRkIGNsYXNzPScnPlRow6FjIE3GoSA8L3RkPiA8dGQgY2xhc3M9J3RkY2xhc3MnPjE4LzA3IDA4OjAwIDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yMDIuNjwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4yMTg8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MTk4PC90ZD48dGQgY2xhc3M9J3RkY2xhc3MnPjIwNi40OTwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz41ODwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+IDx0ZCBjbGFzcz0ndGRjbGFzcyc+NTg8L3RkPjx0ZCBjbGFzcz0ndGRjbGFzcyc+MDwvdGQ+PHRkIGNsYXNzPSd0ZGNsYXNzJz4wPC90ZD4gPC90cj5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBSNVQ1ZpZXdIb0NodWFUaHV5RGllblB1YmxpYzEkZGRsTWllbgUlVUNWaWV3SG9DaHVhVGh1eURpZW5QdWJsaWMxJGRkbEx1dVZ1YwUlVUNWaWV3SG9DaHVhVGh1eURpZW5QdWJsaWMxJGRkbEhvQ2h1YU2G2xtVZG10eGFkEiRt4Ubi7JD7+lQKsUfgV3XB2yHB" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="DAB46EE0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAEHw3j796oWCZnbMG6yLOZ7Vf23EDMJrWvW8Ztt0pG0UVcPzvHtorFh+NWROZs4ckPsRTeVv0Ey9qkIgyD/InvgPTNTS5BiyyR16clK4gb+LtT9ih9VhJavcUozPRv1ldim9qOCYQ9872tx/ZLBntLo4j+c3kiz36x/Ie9xhEUCmivzrY5IWoQtbrGWwoUIMphR2LiKwVQr4iAaeun6ZFOgB0oXU2Zk7gvZE8qaHKfsPoYexgD9bRvXDMpS9l2BFyppU6hZS9qaGK2Ia7y0Sr0E3mGVdJzQYPIMLy59D9uy2HyP67yyxeYvP9O4PvWa0j+tLPPwUOn0WUUdQ1WGN562OahqIr2qidqEnu6+Du0O55IBqFfioHxAN84oBlpdqa+DIhL6eplX/Cq6soScyuo/U8cqiQA6fBJuXEf7wMsVZigv3rmlX8PnnVC/Y2BuiwqCQ8Fe6Y2cgm2ezojxAQWn8lFWVkkqiW0v9xeZbDDRHDpDv9LUr+OixMWcUNgPPDSHgXZylgtzg8HucHzGndWjvZtfyWCjDtnFdPKhe8gU83zyqmjxi4AFRYpcFt8eUGtoHB7KtzHpCT+gdkViGVj7ZQpyc2DjO5OU/Zq1ucoA9/bEhPd4i7idWaQvAElmA6xooSOJgHkiNNd9O2cH7dnx7J8JbLJ59xS/SIdb2/UnpXebM143Lu0eB+yGFTUZQLL7jD71EiTT11QGE4r9LgnMEeLXeUJqZI8TpDII2Z8r804Dpe2ODCWTWkM1glzJiLZgev7ATinqbNx5nbs41o1vFBvG+137Vq5ltS+mDr1xTMM/D3DoUlqCfTr91bq42pD3iu528rCUpQ01kKBZ7sT3gC6PcHNmrROJt2AmC8V4wmOGhZFYmwLlW2DxcFDmd1y7hgl1X3Ry3n+OX2eBXj6xtlYmfNWG44vq5zXWHvUWHN9bkJvCDGvvD4ytZqLvZz0PjobgtmWCKHoLl4IOyMUC6lDDWrfxXfDWjws7Gl9zFFbTGHtkZ8rg3TaTGaKK0biTgs5iuJmoJ1MUS+ZXmugpYFO+FUzCTzogutT7xVKI0HH4MffzDyc0XU4LvKtMCcJh+Eg1EXkCW4ytmChWqn2ZvhnOLUQJY07OY4djcR+7dwpNj/VEG3mDg96E8Hwf623sQgDGU/7XuVpEg07e9AbuenNtaCsOjyhsCkzKU/C1M4UJfs1ARClUTd9TFoeHOPEZKuu+iWon8u/uQ+vckUjDRoDP9vbBiuo9fOdKzhVo2rwtdKCGBEmDp/l+5xdHSb1uShqGSwZevG2lMCDJBUdmayxAp8iXb1GT2LNxcGR7+N/SK3L0DJB9msVrT3E7VY4D5nxZs2IQ62J5tX0JRXiwdpi8q3LXQRQ6aa+TyaD1mNkOHoYJ33W29T1Qn7KM50I35DhcVGOwlEPds/dKHbvmP" />
+</div>
+        <div class="container-fluid">
+            <div style="padding: 0 10px;">                
+                    
+<style type="text/css">
+    .tblgridtd > tbody > tr.tralter td
+    {
+        background-color: #eee;
+        border-bottom: 1px solid #1565c0;
+        color: #1565c0 !important;
+    }
+    
+    td.tdclass
+    {
+        text-align: right !important;
+    }
+    .tableFloatingHeaderOriginal
+    {
+        border-bottom: 4px solid #1565c0 !important;
+    }
+	.btn-group{width:90%;}
+</style>
+
+<div class="row mb-10">
+    <center>
+        <h4>
+            TỔNG HỢP THÔNG TIN VẬN HÀNH HỒ CHỨA
+        </h4>
+    </center>
+</div>
+<div class="row">
+    <div class="sky-form mb-10">        
+        <section class="col-lg-3 col-md-3 col-sm-4 col-xs-12 mb-10">				
+						<select size="4" name="UCViewHoChuaThuyDienPublic1$ddlMien" multiple="multiple" id="UCViewHoChuaThuyDienPublic1_ddlMien" class="form-control">
+	<option value="89">T&#226;y Bắc Bộ</option>
+	<option value="90">Đ&#244;ng Bắc Bộ</option>
+	<option value="80">Bắc Trung Bộ</option>
+	<option value="82">Duy&#234;n Hải Nam Trung Bộ</option>
+	<option value="84">T&#226;y Nguy&#234;n</option>
+	<option value="83">Đ&#244;ng Nam Bộ</option>
+	<option value="85">T&#226;y Nam Bộ</option>
+
+</select>	
+									</section>
+        <section class="col-lg-3 col-md-3 col-sm-4 col-xs-12 mb-10">
+    <select size="4" name="UCViewHoChuaThuyDienPublic1$ddlLuuVuc" multiple="multiple" id="UCViewHoChuaThuyDienPublic1_ddlLuuVuc" class="form-control">
+	<option value="9">S&#244;ng Hồng</option>
+	<option value="10">S&#244;ng Sr&#234;p&#244;k</option>
+	<option value="11">S&#244;ng Cầu</option>
+	<option value="12">S&#244;ng K&#244;n</option>
+	<option value="13">S&#244;ng K&#244;n-H&#224; Thanh</option>
+	<option value="15">S&#244;ng Ba</option>
+	<option value="16">S&#244;ng S&#234; San</option>
+	<option value="17">S&#244;ng Ng&#224;n S&#226;u</option>
+	<option value="19">S&#244;ng Cả</option>
+	<option value="21">S&#244;ng Vu Gia - Thu Bồn</option>
+	<option value="22">S&#244;ng R&#224;o Qu&#225;n</option>
+	<option value="23">S&#244;ng Đồng Nai</option>
+	<option value="24">S&#244;ng M&#227;</option>
+	<option value="25">S&#244;ng Chu</option>
+	<option value="26">S&#244;ng Hương</option>
+
+</select>					
+    </section>
+        <section class="col-lg-3 col-md-3 col-sm-4 col-xs-12 mb-10">					
+						<select size="4" name="UCViewHoChuaThuyDienPublic1$ddlHoChua" multiple="multiple" id="UCViewHoChuaThuyDienPublic1_ddlHoChua" class="form-control">
+	<option value="1">Tuy&#234;n Quang</option>
+	<option value="2">Sơn La</option>
+	<option value="3">H&#242;a B&#236;nh</option>
+	<option value="4">Th&#225;c B&#224;</option>
+	<option value="9">Bu&#244;n Tua Srah</option>
+	<option value="10">Bu&#244;n Kuop</option>
+	<option value="11">Srepok 3</option>
+	<option value="14">Vĩnh Sơn A</option>
+	<option value="15">Vĩnh Sơn B</option>
+	<option value="16">Vĩnh Sơn C</option>
+	<option value="19">An Kh&#234;</option>
+	<option value="20">Kanak</option>
+	<option value="24">Pleikr&#244;ng</option>
+	<option value="25">Ialy</option>
+	<option value="26">Bản Vẽ</option>
+	<option value="27">S&#244;ng Ba Hạ</option>
+	<option value="30">A Vương</option>
+	<option value="32">S&#244;ng Tranh 2</option>
+	<option value="34">Quảng Trị</option>
+	<option value="44">Trị An</option>
+	<option value="45">Đại Ninh</option>
+	<option value="46">Đơn Dương</option>
+	<option value="47">Đồng Nai 3</option>
+	<option value="49">S&#234; San 3</option>
+	<option value="50">S&#234; San 3A</option>
+	<option value="51">S&#234; San 4</option>
+	<option value="52">S&#234; San 4A</option>
+	<option value="56">Th&#225;c Mơ</option>
+	<option value="58">A Lưới</option>
+	<option value="59">H&#224;m Thuận</option>
+	<option value="60">Đa Mi</option>
+	<option value="71">S&#244;ng Hinh</option>
+	<option value="72">Đồng Nai 4</option>
+	<option value="76">Bản Ch&#225;t</option>
+	<option value="77">Huội Quảng</option>
+	<option value="78">Lai Ch&#226;u</option>
+	<option value="80">Trung Sơn</option>
+	<option value="83">S&#244;ng Bung 2</option>
+	<option value="84">S&#244;ng Bung 4</option>
+	<option value="92">Thủy điện Khe Bố</option>
+	<option value="101">Thượng Kon Tum</option>
+
+</select>
+									</section>
+        <section class="col-lg-2 col-md-3 col-sm-4 col-xs-12 mb-10">    
+                     <input name="UCViewHoChuaThuyDienPublic1$tbxDenNgay" type="text" value="18/07/2023 09:00" id="UCViewHoChuaThuyDienPublic1_tbxDenNgay" class="hasDatepicker form-control input-group" placeholder="Thời điểm" autocomplete="off" style="width:90%;" />
+                     </section>
+        <section class="col-lg-1 col-md-3 col-sm-4 col-xs-12 mb-10">
+        <a class="btn-u4 margin-left0" href="javascript:TuDongThayDoiURL();"><i class="fa fa-search"></i> Xem số liệu </a>
+                        
+                      </section>
+    </div>
+</div>
+<div class="row">
+    <a class="color-blue pull-right" onclick="javascript:fnExcelReport();">
+        <i class="fa fa-file-excel-o fa-2x"></i>
+    </a>
+    <!--&nbsp;&nbsp; <a class="color-blue" data-toggle="collapse" id="rownote" data-target=".rownote">
+        <i class="fa fa-question-circle  fa-2x"></i></a>-->
+</div>
+<div class="row mb-10">
+    <div id="myHeader">
+        <table class='tblgridtd table table-striped table-bordered table-hover dataTable no-footer bang2 mytableHeader'>
+            <thead>
+                <tr>
+                    <th style="vertical-align: middle;">
+                        Tên hồ
+                    </th>
+                    <th style="vertical-align: middle;width:10%;">
+                        Thời điểm
+                    </th>                   
+                    <th style="vertical-align: middle;">
+                        H<sub>tl</sub>
+                    </th>     
+<th style="vertical-align: middle;">
+                        H<sub>dbt</sub>
+                    </th>     
+<th style="vertical-align: middle;">
+                        H<sub>c</sub>
+                    </th>     					
+                    <th style="vertical-align: middle;">
+                        Q<sub>ve</sub>
+                    </th>
+                    <th style="vertical-align: middle;">
+                        &Sigma;<sub>Qx</sub>
+                    </th>
+                    <th style="vertical-align: middle;">
+                        Q<sub>xt</sub>
+                    </th>
+                    <th style="vertical-align: middle;">
+                        Q<sub>xm</sub>
+                    </th>
+                    <th style="vertical-align: middle;">
+                        N<sub>cxd</sub>
+                    </th>
+                    <th style="vertical-align: middle;">
+                        N<sub>cxm</sub>
+                    </th>                    
+                </tr>
+				<tr style="color:blue;">
+                    <th style="vertical-align: middle; text-align: right;" colspan="2">
+                        Chú thích ký hiệu
+                    </th>                   
+                    <td style="vertical-align: text-top; text-align: left;">
+                        <small>Mực nước<br />
+                            thượng lưu (m)</small>
+                    </td>   
+<td style="vertical-align: text-top; text-align: center;">
+                        <small>Mực nước<br />
+                            dâng bình thường (m)</small>
+                    </td>   
+<td style="vertical-align: text-top; text-align: center;">
+                        <small>Mực nước<br />
+                            chết (m)</small>
+                    </td>   					
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Lưu lượng<br />
+                            đến hồ
+                            <br />
+                            (m3/s)</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Tổng lượng xả
+                            <br />
+                            (m3/s)</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Tổng lượng xả
+                            <br />
+                            qua đập<br />
+                            tràn (m3/s)</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Tổng lượng xả<br />
+                            qua nhà
+                            <br />
+                            máy (m3/s)</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Số cửa
+                            <br />
+                            xả tràn</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Số cửa
+                            <br />
+                            xả mặt</small>
+                    </td>                    
+                </tr>
+            </thead>
+            <tbody>
+                <!--<tr class="rownote collapse" aria-expanded="false" style="height: 0px;">
+                    <th style="vertical-align: middle; text-align: right;" colspan="2">
+                        <i class="fa fa-exclamation-circle fa-2x"></i>&nbsp;Chú thích ký hiệu
+                    </th>                   
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Mực nước<br />
+                            thượng lưu (m)</small>
+                    </td>   
+<td style="vertical-align: text-top; text-align: center;">
+                        <small>Mực nước<br />
+                            dâng bình thường (m)</small>
+                    </td>   
+<td style="vertical-align: text-top; text-align: center;">
+                        <small>Mực nước<br />
+                            chết (m)</small>
+                    </td>   					
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Lưu lượng<br />
+                            đến hồ
+                            <br />
+                            (m3/s)</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Tổng lượng xả
+                            <br />
+                            (m3/s)</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Tổng lượng xả
+                            <br />
+                            qua đập<br />
+                            tràn (m3/s)</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Tổng lượng xả<br />
+                            qua nhà
+                            <br />
+                            máy (m3/s)</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Số cửa
+                            <br />
+                            xả tràn</small>
+                    </td>
+                    <td style="vertical-align: text-top; text-align: center;">
+                        <small>Số cửa
+                            <br />
+                            xả mặt</small>
+                    </td>                    
+                </tr>-->
+                 <tr class='tralter'><td colspan='11'><strong>Đông Bắc Bộ</strong></td> </tr> <tr> <td class=''>Tuyên Quang </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>99.2</td><td class='tdclass'>120</td><td class='tdclass'>90</td><td class='tdclass'>371.65</td><td class='tdclass'>727</td> <td class='tdclass'>0</td> <td class='tdclass'>727</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr class='tralter'><td colspan='11'><strong>Tây Bắc Bộ</strong></td> </tr> <tr> <td class=''>Lai Châu </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>281.72</td><td class='tdclass'>295</td><td class='tdclass'>265</td><td class='tdclass'>446</td><td class='tdclass'>1153</td> <td class='tdclass'>0</td> <td class='tdclass'>1153</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Bản Chát </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>449.54</td><td class='tdclass'>475</td><td class='tdclass'>431</td><td class='tdclass'>79</td><td class='tdclass'>0</td> <td class='tdclass'>0</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Huội Quảng </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>368.94</td><td class='tdclass'>370</td><td class='tdclass'>368</td><td class='tdclass'>64.3</td><td class='tdclass'>171.6</td> <td class='tdclass'>0</td> <td class='tdclass'>171.6</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Sơn La </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>195.55</td><td class='tdclass'>215</td><td class='tdclass'>175</td><td class='tdclass'>1340</td><td class='tdclass'>2729</td> <td class='tdclass'>0</td> <td class='tdclass'>2729</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Hòa Bình </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>95.8</td><td class='tdclass'>117</td><td class='tdclass'>80</td><td class='tdclass'>3358</td><td class='tdclass'>2449</td> <td class='tdclass'>0</td> <td class='tdclass'>2449</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Thác Bà </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>48.77</td><td class='tdclass'>58</td><td class='tdclass'>46</td><td class='tdclass'>210</td><td class='tdclass'>262.23</td> <td class='tdclass'>0</td> <td class='tdclass'>262.23</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr class='tralter'><td colspan='11'><strong>Bắc Trung Bộ</strong></td> </tr> <tr> <td class=''>Trung Sơn </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>147.75</td><td class='tdclass'>160</td><td class='tdclass'>150</td><td class='tdclass'>210</td><td class='tdclass'>112</td> <td class='tdclass'>0</td> <td class='tdclass'>112</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Bản Vẽ </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>157.01</td><td class='tdclass'>200</td><td class='tdclass'>155</td><td class='tdclass'>54</td><td class='tdclass'>0</td> <td class='tdclass'>0</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Quảng Trị </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>453.45</td><td class='tdclass'>480</td><td class='tdclass'>450</td><td class='tdclass'>3</td><td class='tdclass'>0</td> <td class='tdclass'>0</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr class='tralter'><td colspan='11'><strong>Nam Trung Bộ</strong></td> </tr> <tr> <td class=''>A Vương </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>357.22</td><td class='tdclass'>380</td><td class='tdclass'>340</td><td class='tdclass'>10.47</td><td class='tdclass'>28</td> <td class='tdclass'>0</td> <td class='tdclass'>28</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Sông Bung 2 </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>582.41</td><td class='tdclass'>605</td><td class='tdclass'>565</td><td class='tdclass'>4.55</td><td class='tdclass'>0</td> <td class='tdclass'>0</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Sông Bung 4 </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>217.32</td><td class='tdclass'>222.5</td><td class='tdclass'>205</td><td class='tdclass'>39.78</td><td class='tdclass'>80</td> <td class='tdclass'>0</td> <td class='tdclass'>80</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Sông Tranh 2 </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>154.98</td><td class='tdclass'>175</td><td class='tdclass'>140</td><td class='tdclass'>42.33</td><td class='tdclass'>5.94</td> <td class='tdclass'>5.94</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Sông Ba Hạ </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>103.32</td><td class='tdclass'>105</td><td class='tdclass'>101</td><td class='tdclass'>210</td><td class='tdclass'>363</td> <td class='tdclass'>0</td> <td class='tdclass'>363</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Sông Hinh </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>202.11</td><td class='tdclass'>209</td><td class='tdclass'>196</td><td class='tdclass'>-22.11</td><td class='tdclass'>45.67</td> <td class='tdclass'>0</td> <td class='tdclass'>45.67</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr class='tralter'><td colspan='11'><strong>Tây Nguyên</strong></td> </tr> <tr> <td class=''>Thượng Kon Tum </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>1149.75</td><td class='tdclass'></td><td class='tdclass'></td><td class='tdclass'>17.95</td><td class='tdclass'>13.65</td> <td class='tdclass'>0</td> <td class='tdclass'>13.65</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Pleikrông </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>546.51</td><td class='tdclass'>570</td><td class='tdclass'>537</td><td class='tdclass'>974</td><td class='tdclass'>0</td> <td class='tdclass'>0</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Ialy </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>498.4</td><td class='tdclass'>515</td><td class='tdclass'>490</td><td class='tdclass'>786</td><td class='tdclass'>45</td> <td class='tdclass'>0</td> <td class='tdclass'>45</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Sê San 3 </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>303.95</td><td class='tdclass'>304.5</td><td class='tdclass'>303.2</td><td class='tdclass'>58</td><td class='tdclass'>0</td> <td class='tdclass'>0</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Sê San 3A </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>238.86</td><td class='tdclass'>239</td><td class='tdclass'>238.5</td><td class='tdclass'>55</td><td class='tdclass'>444</td> <td class='tdclass'>0</td> <td class='tdclass'>444</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Srêpốk 3 </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>269.3</td><td class='tdclass'>272</td><td class='tdclass'>268</td><td class='tdclass'>290</td><td class='tdclass'>400</td> <td class='tdclass'>0</td> <td class='tdclass'>400</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Buôn Kuốp </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>409.35</td><td class='tdclass'>412</td><td class='tdclass'>409</td><td class='tdclass'>259</td><td class='tdclass'>246</td> <td class='tdclass'>0</td> <td class='tdclass'>246</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Buôn Tua Srah </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>471.68</td><td class='tdclass'>487.5</td><td class='tdclass'>465</td><td class='tdclass'>252</td><td class='tdclass'>180</td> <td class='tdclass'>0</td> <td class='tdclass'>180</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Đồng Nai 3 </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>574.22</td><td class='tdclass'>590</td><td class='tdclass'>570</td><td class='tdclass'>104.95</td><td class='tdclass'>94.72</td> <td class='tdclass'>0</td> <td class='tdclass'>94.72</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Đồng Nai 4 </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>475.72</td><td class='tdclass'>476</td><td class='tdclass'>474</td><td class='tdclass'>94.17</td><td class='tdclass'>2.5</td> <td class='tdclass'>2.5</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Đơn Dương </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>1032.1</td><td class='tdclass'>1042</td><td class='tdclass'>1018</td><td class='tdclass'>3.16</td><td class='tdclass'>31.25</td> <td class='tdclass'>0</td> <td class='tdclass'>31.25</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Đại Ninh </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>868.6</td><td class='tdclass'>880</td><td class='tdclass'>860</td><td class='tdclass'>26</td><td class='tdclass'>0.7</td> <td class='tdclass'>0.7</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Hàm Thuận </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>583.25</td><td class='tdclass'>605</td><td class='tdclass'>575</td><td class='tdclass'>119.69</td><td class='tdclass'>97.7</td> <td class='tdclass'>0</td> <td class='tdclass'>97.7</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Đa Mi </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>324.76</td><td class='tdclass'>325</td><td class='tdclass'>323</td><td class='tdclass'>112.34</td><td class='tdclass'>91.23</td> <td class='tdclass'>0</td> <td class='tdclass'>91.23</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr class='tralter'><td colspan='11'><strong>Đông Nam Bộ</strong></td> </tr> <tr> <td class=''>Trị An </td> <td class='tdclass'>18/07 07:00 </td><td class='tdclass'>54.97</td><td class='tdclass'>62</td><td class='tdclass'>50</td><td class='tdclass'>660</td><td class='tdclass'>0</td> <td class='tdclass'>0</td> <td class='tdclass'>0</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr> <tr> <td class=''>Thác Mơ </td> <td class='tdclass'>18/07 08:00 </td><td class='tdclass'>202.6</td><td class='tdclass'>218</td><td class='tdclass'>198</td><td class='tdclass'>206.49</td><td class='tdclass'>58</td> <td class='tdclass'>0</td> <td class='tdclass'>58</td><td class='tdclass'>0</td><td class='tdclass'>0</td> </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<iframe id="txtArea1" style="display: none"></iframe>
+<script type="text/javascript">
+    function fnExcelReport() {
+        var tab_text = "<table border='2px'><tr>";
+        var textRange; var j = 0;
+        var tab = document.getElementsByClassName("tblgridtd")[0]; // id of table
+
+        for (j = 0; j < tab.rows.length; j++) {
+            tab_text = tab_text + tab.rows[j].innerHTML + "</tr>";
+        }
+
+        tab_text = tab_text + "</table>";
+        tab_text = tab_text.replace(/<a[^>]*>|<\/a>/g, ""); //remove if u want links in your table
+        tab_text = tab_text.replace(/<img[^>]*>/gi, ""); // remove if u want images in your table
+        tab_text = tab_text.replace(/<input[^>]*>|<\/input>/gi, ""); // reomves input params
+
+        var ua = window.navigator.userAgent;
+        var msie = ua.indexOf("MSIE ");
+
+        if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))      // If Internet Explorer
+        {
+            txtArea1.document.open("txt/html", "replace");
+            txtArea1.document.write(tab_text);
+            txtArea1.document.close();
+            txtArea1.focus();
+            sa = txtArea1.document.execCommand("SaveAs", true, "baocaomucnuocbaygio.xls");
+        }
+        else {                 //other browser not tested on IE 11
+            sa = window.open('data:application/vnd.ms-excel,' + encodeURIComponent(tab_text));
+        }
+
+        return (sa);
+    }
+</script>
+<script src="/js/stickytableheader.js" type="text/javascript"></script>
+<script src="/js/popupwindow/dhtmlwindow.js" type="text/javascript"></script>
+<link href="/js/popupwindow/dhtmlwindow.css" rel="stylesheet"
+    type="text/css" />
+<link href="/js/bootstrap/bootstrap-multiselect.css" rel="stylesheet"
+    type="text/css" />
+<link rel="stylesheet" href="/BlueThemes/js/datetimepicker/jquery.datetimepicker.css" />
+<script type="text/javascript" src="/BlueThemes/js/datetimepicker/jquery.datetimepicker.js"></script>
+<script type="text/javascript" src="/js/bootstrap/bootstrap-multiselect.js"></script>
+<script type="text/javascript" language="javascript">
+    $(document).ready(function () {
+    });
+    function AnHien_GiaTri() {
+        var arrayVM = $("#UCViewHoChuaThuyDienPublic1_ddlMien").val();
+        var tmpVM = '';
+        if (tmpVM != null && tmpVM != '') {
+            arrayVM = tmpVM.split("-");
+        }
+        if (arrayVM != null) {
+            $('#UCViewHoChuaThuyDienPublic1_ddlMien > option').each(function () {
+                $(this).attr("selected", false);
+                var itemoption = $(this).val();
+                $(arrayVM).each(function (i, v) {
+                    if (itemoption == v)
+                        $("#UCViewHoChuaThuyDienPublic1_ddlMien > option[value=" + v + "]").attr("selected", true);
+                });
+            });
+        }
+    }
+
+    function TuDongThayDoiURL() {
+        var d = new Date(),
+        month = '' + (d.getMonth() + 1),
+        day = '' + d.getDate(),
+        year = d.getFullYear();
+        if (month.length < 2) month = '0' + month;
+        if (day.length < 2) day = '0' + day;
+        var getden = '';
+        var getvm = '';
+        var getlv = '';
+        var gethc = '';
+
+        if ($("#UCViewHoChuaThuyDienPublic1_tbxDenNgay").val() != null) {
+            getden = $("#UCViewHoChuaThuyDienPublic1_tbxDenNgay").val();
+        }
+        if ($("#UCViewHoChuaThuyDienPublic1_ddlMien").val() != null) {
+            getvm = $("#UCViewHoChuaThuyDienPublic1_ddlMien").val().toString().replace(/,/g, "-");
+        }
+        if ($("#UCViewHoChuaThuyDienPublic1_ddlLuuVuc").val() != null) {
+            getlv = $("#UCViewHoChuaThuyDienPublic1_ddlLuuVuc").val().toString().replace(/,/g, "-");
+        }
+        if ($("#UCViewHoChuaThuyDienPublic1_ddlHoChua").val() != null) {
+            gethc = $("#UCViewHoChuaThuyDienPublic1_ddlHoChua").val().toString().replace(/,/g, "-");
+        }
+        location.replace("/PageHoChuaThuyDienEmbedEVN.aspx?td=" + getden + "&vm=" + getvm + "&lv=" + getlv + "&hc=" + gethc);
+    }
+
+    function ChangeThoiDiem() {
+        var geththientai = '';
+        var gethtquery = '';
+        if ($("#UCViewHoChuaThuyDienPublic1_tbxDenNgay").val() != null) {
+            geththientai = $("#UCViewHoChuaThuyDienPublic1_tbxDenNgay").val().toString().replace(/,/g, "-");
+        }
+        if (geththientai != gethtquery) {
+            TuDongThayDoiURL();
+        }
+    }
+
+    $("#UCViewHoChuaThuyDienPublic1_ddlMien").multiselect({
+        buttonClass: 'form-control',
+        nonSelectedText: '-- Chọn vùng miền--',
+        nSelectedText: ' - Vùng miền hiển thị',
+        allSelectedText: '-- Tất cả vùng miền-- ',
+        numberDisplayed: 0
+        /*,
+        onDropdownHidden: function (e) {
+        var geththientai = '';
+        var gethtquery = '';
+        if ($("#UCViewHoChuaThuyDienPublic1_ddlMien").val() != null) {
+        geththientai = $("#UCViewHoChuaThuyDienPublic1_ddlMien").val().toString().replace(/,/g, "-");
+        }
+        if (geththientai != gethtquery) {
+        TuDongThayDoiURL();
+        }
+        }*/
+    });
+
+    $("#UCViewHoChuaThuyDienPublic1_ddlLuuVuc").multiselect({
+        buttonClass: 'form-control',
+        nonSelectedText: '-- Chọn lưu vực--',
+        nSelectedText: ' - Lưu vực hiển thị',
+        allSelectedText: '-- Tất cả lưu vực --',
+        numberDisplayed: 0
+        /*,
+        onDropdownHidden: function (e) {
+        var geththientai = '';
+        var gethtquery = '';
+        if ($("#UCViewHoChuaThuyDienPublic1_ddlLuuVuc").val() != null) {
+        geththientai = $("#UCViewHoChuaThuyDienPublic1_ddlLuuVuc").val().toString().replace(/,/g, "-");
+        }
+        if (geththientai != gethtquery) {
+        TuDongThayDoiURL();
+        }
+        }*/
+    });
+
+    $("#UCViewHoChuaThuyDienPublic1_ddlHoChua").multiselect({
+        buttonClass: 'form-control',
+        nonSelectedText: '-- Chọn hồ Thủy điện --',
+        nSelectedText: ' - Hồ hiển thị',
+        allSelectedText: '-- Tất cả Hồ thủy điện --',
+        numberDisplayed: 0
+        /*,
+        onDropdownHidden: function (e) {
+        var geththientai = '';
+        var gethtquery = '';
+        if ($("#UCViewHoChuaThuyDienPublic1_ddlHoChua").val() != null) {
+        geththientai = $("#UCViewHoChuaThuyDienPublic1_ddlHoChua").val().toString().replace(/,/g, "-");
+        }
+        if (geththientai != gethtquery) {
+        TuDongThayDoiURL();
+        }
+        }*/
+    });
+
+    $(function () {
+        $("#UCViewHoChuaThuyDienPublic1_tbxDenNgay").datetimepicker({
+            lang: 'vi',
+            timepicker: true,
+            format: 'd/m/Y H:i',
+            formatDate: 'Y/m/d',
+            scrollInput: false,
+            step: 60
+        });
+    });
+    
+    $("html:not(.legacy) table.mytableHeader").stickyTableHeaders({ fixedOffset: 0 });    
+</script>
+               
+            </div>
+            <!-- JS Global Compulsory -->
+            <script type="text/javascript" src="/BlueThemes/js/bootstrap.min.js"></script>
+            <!-- JS Customization -->
+            <script type="text/javascript" src="/BlueThemes/js/custom.js"></script>
+            <!-- JS Page Level -->
+            <!--[if lt IE 9]>
+	        <script src="/BlueThemes/js/respond.js"></script>
+	        <script src="/BlueThemes/js/html5shiv.js"></script>
+	        <script src="/BlueThemes/js/placeholder-IE-fixes.js"></script>
+	        <![endif]-->
+        </div>
+    </form>
+</body>
+</html>
